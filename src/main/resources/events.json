@@ -1,0 +1,948 @@
+{
+  "rows": [
+    {
+      "title": "Sommerfest",
+      "startDate": "1402783200",
+      "startTime": "42420",
+      "allday": "0",
+      "categoryTitle": "Heimatverein",
+      "locationName": "Dorfplatz, Niederjosbach"
+    },
+    {
+      "title": "Kirchweihfest und 70 Jahre Kirchenchor",
+      "startDate": "1413064800",
+      "startTime": "39600",
+      "allday": "0",
+      "categoryTitle": "Katholische Kirche",
+      "locationName": "Pfarrzentrum, Niederjosbach"
+    },
+    {
+      "title": "Dickworzschnitzen",
+      "startDate": "1413583200",
+      "startTime": "50400",
+      "allday": "0",
+      "categoryTitle": "Heimatverein",
+      "locationName": "Hof Familie Kilb, Niederjosbach"
+    },
+    {
+      "title": "Chorwochenende",
+      "startDate": "1414796400",
+      "startTime": "0",
+      "allday": "0",
+      "categoryTitle": "Katholische Kirche",
+      "locationName": "Pfarrzentrum, Niederjosbach"
+    },
+    {
+      "title": "Stammtisch",
+      "startDate": "1415919600",
+      "startTime": "66600",
+      "allday": "0",
+      "categoryTitle": "Heimatverein",
+      "locationName": "Kastanienhof, Niederjosbach"
+    },
+    {
+      "title": "Volkstrauertag (Singen am Ehrenmal)",
+      "startDate": "1416092400",
+      "startTime": "36000",
+      "allday": "0",
+      "categoryTitle": "Gesangverein Taunusliebe",
+      "locationName": "Friedhof, Niederjosbach"
+    },
+    {
+      "title": "Gedenkgottestdienst für die Verstorbenen Vereinsmitglieder",
+      "startDate": "1416092400",
+      "startTime": "39600",
+      "allday": "0",
+      "categoryTitle": "Gesangverein Taunusliebe",
+      "locationName": "Kirche, Niederjosbach"
+    },
+    {
+      "title": "Unterhaltungsabend mit Theater",
+      "startDate": "1417215600",
+      "startTime": "68400",
+      "allday": "0",
+      "categoryTitle": "Gesangverein Taunusliebe",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "Kaffeenachmittag mit Theater",
+      "startDate": "1417302000",
+      "startTime": "54000",
+      "allday": "0",
+      "categoryTitle": "Gesangverein Taunusliebe",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "KICO Adventsnachmittag",
+      "startDate": "1417820400",
+      "startTime": "54000",
+      "allday": "0",
+      "categoryTitle": "Katholische Kirche",
+      "locationName": "Pfarrzentrum, Niederjosbach"
+    },
+    {
+      "title": "Weihnachtsfeier",
+      "startDate": "1418338800",
+      "startTime": "66600",
+      "allday": "0",
+      "categoryTitle": "Gesangverein Taunusliebe",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "Weihnachtsfeier",
+      "startDate": "1418425200",
+      "startTime": "57600",
+      "allday": "0",
+      "categoryTitle": "Obst- und Gartenbauverein",
+      "locationName": "Pfarrzentrum, Niederjosbach"
+    },
+    {
+      "title": "Konzert mit ZDF",
+      "startDate": "1419116400",
+      "startTime": "54000",
+      "allday": "0",
+      "categoryTitle": "Gesangverein Sängerlust",
+      "locationName": "Kirche, Niederjosbach"
+    },
+    {
+      "title": "Stammtisch",
+      "startDate": "1421967600",
+      "startTime": "66600",
+      "allday": "0",
+      "categoryTitle": "Heimatverein",
+      "locationName": "Kastanienhof, Niederjosbach"
+    },
+    {
+      "title": "Senatorenempfang",
+      "startDate": "1422658800",
+      "startTime": "47460",
+      "allday": "0",
+      "categoryTitle": "GCC",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "Senatorenempfang",
+      "startDate": "1422140400",
+      "startTime": "47460",
+      "allday": "0",
+      "categoryTitle": "GCC",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "1. Prunksitzung",
+      "startDate": "1422658800",
+      "startTime": "69060",
+      "allday": "0",
+      "categoryTitle": "GCC",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "Jugend in der Bütt",
+      "startDate": "1422745200",
+      "startTime": "51060",
+      "allday": "0",
+      "categoryTitle": "GCC",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "Kreppelkaffee",
+      "startDate": "1422918000",
+      "startTime": "54000",
+      "allday": "0",
+      "categoryTitle": "GCC",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "30. Fastnachtsturnier Volleyball",
+      "startDate": "1423868400",
+      "startTime": "34200",
+      "allday": "0",
+      "categoryTitle": "TuS Niederjosbach",
+      "locationName": "Bienrothhalle, Eppstein"
+    },
+    {
+      "title": "2. Prunksitzung",
+      "startDate": "1423954800",
+      "startTime": "69060",
+      "allday": "0",
+      "categoryTitle": "GCC",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "Mitgliederversammlung",
+      "startDate": "1424473200",
+      "startTime": "68400",
+      "allday": "0",
+      "categoryTitle": "Gesangverein Taunusliebe",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "theoretischer Teil Baumschnittkurs",
+      "startDate": "1424386800",
+      "startTime": "68400",
+      "allday": "0",
+      "categoryTitle": "Obst- und Gartenbauverein",
+      "locationName": "Feuerwehr, Niederjosbach"
+    },
+    {
+      "title": "praktischer Teil Baumschnittkurs",
+      "startDate": "1424473200",
+      "startTime": "68400",
+      "allday": "0",
+      "categoryTitle": "Obst- und Gartenbauverein",
+      "locationName": "Streuobstwiese, Niederjosbach"
+    },
+    {
+      "title": "Jahreshauptversammlung",
+      "startDate": "1424991600",
+      "startTime": "72000",
+      "allday": "0",
+      "categoryTitle": "Freiwillige Feuerwehr",
+      "locationName": "Feuerwehr, Niederjosbach"
+    },
+    {
+      "title": "Mitgliederversammlung",
+      "startDate": "1426201200",
+      "startTime": "64800",
+      "allday": "0",
+      "categoryTitle": "Obst- und Gartenbauverein",
+      "locationName": "Pfarrzentrum, Niederjosbach"
+    },
+    {
+      "title": "Mitgliederversammlung",
+      "startDate": "1426806000",
+      "startTime": "70200",
+      "allday": "0",
+      "categoryTitle": "Heimatverein",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "Palmsonntag-Glücksschießen",
+      "startDate": "1427583600",
+      "startTime": "39600",
+      "allday": "0",
+      "categoryTitle": "Schützenverein Bremthal / Niederjosbach",
+      "locationName": "Schützenraum, Niederjosbach"
+    },
+    {
+      "title": "Mitgliederversammlung",
+      "startDate": "1429221600",
+      "startTime": "72000",
+      "allday": "0",
+      "categoryTitle": "Schützenverein Bremthal / Niederjosbach",
+      "locationName": "Schützenraum, Niederjosbach"
+    },
+    {
+      "title": "Stammtisch",
+      "startDate": "1429826400",
+      "startTime": "66600",
+      "allday": "0",
+      "categoryTitle": "Heimatverein",
+      "locationName": "Kastanienhof, Niederjosbach"
+    },
+    {
+      "title": "Frühschoppen",
+      "startDate": "1430431200",
+      "startTime": "39600",
+      "allday": "0",
+      "categoryTitle": "Freiwillige Feuerwehr",
+      "locationName": "Feuerwehr, Niederjosbach"
+    },
+    {
+      "title": "Vereinspokalschießen",
+      "startDate": "1430863200",
+      "startTime": "68400",
+      "allday": "0",
+      "categoryTitle": "Schützenverein Bremthal / Niederjosbach",
+      "locationName": "Schützenraum, Niederjosbach"
+    },
+    {
+      "title": "Vereinspokalschießen",
+      "startDate": "1431036000",
+      "startTime": "68400",
+      "allday": "0",
+      "categoryTitle": "Schützenverein Bremthal / Niederjosbach",
+      "locationName": "Schützenraum, Niederjosbach"
+    },
+    {
+      "title": "Vereinspokalschießen",
+      "startDate": "1431468000",
+      "startTime": "68400",
+      "allday": "0",
+      "categoryTitle": "Schützenverein Bremthal / Niederjosbach",
+      "locationName": "Schützenraum, Niederjosbach"
+    },
+    {
+      "title": "Vatertag",
+      "startDate": "1431554400",
+      "startTime": "39600",
+      "allday": "0",
+      "categoryTitle": "Gesangverein Sängerlust",
+      "locationName": "Dorfplatz, Niederjosbach"
+    },
+    {
+      "title": "Vereinspokalschießen",
+      "startDate": "1431640800",
+      "startTime": "68400",
+      "allday": "0",
+      "categoryTitle": "Schützenverein Bremthal / Niederjosbach",
+      "locationName": "Schützenraum, Niederjosbach"
+    },
+    {
+      "title": "Vereinspokalschießen",
+      "startDate": "1432072800",
+      "startTime": "68400",
+      "allday": "0",
+      "categoryTitle": "Schützenverein Bremthal / Niederjosbach",
+      "locationName": "Schützenraum, Niederjosbach"
+    },
+    {
+      "title": "Vereinspokalschießen",
+      "startDate": "1432245600",
+      "startTime": "68400",
+      "allday": "0",
+      "categoryTitle": "Schützenverein Bremthal / Niederjosbach",
+      "locationName": "Schützenraum, Niederjosbach"
+    },
+    {
+      "title": "Festakt 125 Jahre TuS",
+      "startDate": "1432850400",
+      "startTime": "72000",
+      "allday": "0",
+      "categoryTitle": "TuS Niederjosbach",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "Ausstellung 125 Jahre TuS",
+      "startDate": "1432850400",
+      "startTime": "0",
+      "allday": "0",
+      "categoryTitle": "TuS Niederjosbach",
+      "locationName": "Grünes Tal, Niederjosbach"
+    },
+    {
+      "title": "Tanzabend 125 Jahre TuS",
+      "startDate": "1432936800",
+      "startTime": "72000",
+      "allday": "0",
+      "categoryTitle": "TuS Niederjosbach",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "Festgottesdienst 125 Jahre TuS",
+      "startDate": "1433023200",
+      "startTime": "36000",
+      "allday": "0",
+      "categoryTitle": "TuS Niederjosbach",
+      "locationName": "Kirche, Niederjosbach"
+    },
+    {
+      "title": "Frühschoppen + Spielefest 125 Jahre TuS Niederjosbach",
+      "startDate": "1433023200",
+      "startTime": "39600",
+      "allday": "0",
+      "categoryTitle": "TuS Niederjosbach",
+      "locationName": "Sportarena, Niederjosbach"
+    },
+    {
+      "title": "Hessischer Frühschoppen mit Siegerehrung Vereinspokalschießen",
+      "startDate": "1434837600",
+      "startTime": "39600",
+      "allday": "0",
+      "categoryTitle": "Schützenverein Bremthal / Niederjosbach",
+      "locationName": "Schützenraum, Niederjosbach"
+    },
+    {
+      "title": "Tag der Feuerwehr",
+      "startDate": "1436565600",
+      "startTime": "54000",
+      "allday": "0",
+      "categoryTitle": "Freiwillige Feuerwehr",
+      "locationName": "Dorfplatz, Niederjosbach"
+    },
+    {
+      "title": "Dorfplatzfest",
+      "startDate": "1437170400",
+      "startTime": "54000",
+      "allday": "0",
+      "categoryTitle": "Gesangverein Taunusliebe",
+      "locationName": "Dorfplatz, Niederjosbach"
+    },
+    {
+      "title": "Dorfplatzfest",
+      "startDate": "1437256800",
+      "startTime": "39600",
+      "allday": "0",
+      "categoryTitle": "Gesangverein Taunusliebe",
+      "locationName": "Dorfplatz, Niederjosbach"
+    },
+    {
+      "title": "Apfelweinprobe/-prämierung",
+      "startDate": "1438984800",
+      "startTime": "64800",
+      "allday": "0",
+      "categoryTitle": "Obst- und Gartenbauverein",
+      "locationName": "Dorfplatz, Niederjosbach"
+    },
+    {
+      "title": "Oktoberfest",
+      "startDate": "1443218400",
+      "startTime": "0",
+      "allday": "0",
+      "categoryTitle": "GCC",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "Oktoberfestfrühschoppen",
+      "startDate": "1443304800",
+      "startTime": "39600",
+      "allday": "0",
+      "categoryTitle": "GCC",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "Kirchweihfest",
+      "startDate": "1444514400",
+      "startTime": "39600",
+      "allday": "0",
+      "categoryTitle": "Katholische Kirche",
+      "locationName": "Kirche, Niederjosbach"
+    },
+    {
+      "title": "Dickworzschnitzen",
+      "startDate": "1445637600",
+      "startTime": "50400",
+      "allday": "0",
+      "categoryTitle": "Heimatverein",
+      "locationName": "Hof Familie Kilb, Niederjosbach"
+    },
+    {
+      "title": "Musikalischer Abend",
+      "startDate": "1446850800",
+      "startTime": "72000",
+      "allday": "0",
+      "categoryTitle": "Gesangverein Sängerlust",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "Stammtisch",
+      "startDate": "1447369200",
+      "startTime": "66600",
+      "allday": "0",
+      "categoryTitle": "Heimatverein",
+      "locationName": "Kastanienhof, Niederjosbach"
+    },
+    {
+      "title": "Rathaussturm",
+      "startDate": "1447455600",
+      "startTime": "61860",
+      "allday": "0",
+      "categoryTitle": "GCC",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "Abschlussfeier",
+      "startDate": "1448060400",
+      "startTime": "66600",
+      "allday": "0",
+      "categoryTitle": "Freiwillige Feuerwehr",
+      "locationName": "Feuerwehr, Niederjosbach"
+    },
+    {
+      "title": "Unterhaltungsabend mit 1. Aufführung des Theaterstücks",
+      "startDate": "1448665200",
+      "startTime": "68400",
+      "allday": "0",
+      "categoryTitle": "Gesangverein Taunusliebe",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "Kaffeenachmittag mit 2. Aufführung des Theaterstücks",
+      "startDate": "1448751600",
+      "startTime": "54000",
+      "allday": "0",
+      "categoryTitle": "Gesangverein Taunusliebe",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "Adventscafé",
+      "startDate": "1449874800",
+      "startTime": "55800",
+      "allday": "0",
+      "categoryTitle": "Obst- und Gartenbauverein",
+      "locationName": "Pfarrzentrum, Niederjosbach"
+    },
+    {
+      "title": "Weihnachtsfeier NW + LA",
+      "startDate": "1450047600",
+      "startTime": "0",
+      "allday": "0",
+      "categoryTitle": "TuS Niederjosbach",
+      "locationName": "TuS-Clubheim, Niederjosbach"
+    },
+    {
+      "title": "Turmblasen",
+      "startDate": "1450911600",
+      "startTime": "59400",
+      "allday": "0",
+      "categoryTitle": "Freiwillige Feuerwehr",
+      "locationName": "Feuerwehr, Niederjosbach"
+    },
+    {
+      "title": "Gedenkgottesdienst für verstorbene Mitglieder",
+      "startDate": "1446937200",
+      "startTime": "39600",
+      "allday": "0",
+      "categoryTitle": "Gesangverein Taunusliebe",
+      "locationName": "Kirche, Niederjosbach"
+    },
+    {
+      "title": "40 Jahre Jugendfeuerwehr Niederjosbach",
+      "startDate": "1473458400",
+      "startTime": "0",
+      "allday": "1",
+      "categoryTitle": "Freiwillige Feuerwehr",
+      "locationName": "Festplatz, Niederjosbach"
+    },
+    {
+      "title": "Seniorenfußballturnier",
+      "startDate": "1469743200",
+      "startTime": "0",
+      "allday": "0",
+      "categoryTitle": "TuS Niederjosbach",
+      "locationName": "Sportarena, Niederjosbach"
+    },
+    {
+      "title": "Mitgliederversammlung",
+      "startDate": "1458255600",
+      "startTime": "70200",
+      "allday": "0",
+      "categoryTitle": "Heimatverein",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "Stammtisch",
+      "startDate": "1460671200",
+      "startTime": "66600",
+      "allday": "0",
+      "categoryTitle": "Heimatverein",
+      "locationName": "Kastanienhof, Niederjosbach"
+    },
+    {
+      "title": "Stammtisch",
+      "startDate": "1468533600",
+      "startTime": "66600",
+      "allday": "0",
+      "categoryTitle": "Heimatverein",
+      "locationName": "Kastanienhof, Niederjosbach"
+    },
+    {
+      "title": "Sommerfest",
+      "startDate": "1471730400",
+      "startTime": "39600",
+      "allday": "0",
+      "categoryTitle": "Heimatverein",
+      "locationName": "Hof \"Alte Krone\", Niederjosbach"
+    },
+    {
+      "title": "Dickworzschnitzen",
+      "startDate": "1477087200",
+      "startTime": "50400",
+      "allday": "0",
+      "categoryTitle": "Heimatverein",
+      "locationName": "Hof Familie Kilb, Niederjosbach"
+    },
+    {
+      "title": "Gedenken zum Volkstrauertag",
+      "startDate": "1478991600",
+      "startTime": "36000",
+      "allday": "0",
+      "categoryTitle": "Heimatverein",
+      "locationName": "Ehrenmal, Niederjosbach"
+    },
+    {
+      "title": "Stammtisch",
+      "startDate": "1479423600",
+      "startTime": "66600",
+      "allday": "0",
+      "categoryTitle": "Heimatverein",
+      "locationName": "Kastanienhof, Niederjosbach"
+    },
+    {
+      "title": "Adventsmarkt (Stand mit Taunusliebe)",
+      "startDate": "1480806000",
+      "startTime": "36000",
+      "allday": "0",
+      "categoryTitle": "Heimatverein",
+      "locationName": "Dorfplatz, Niederjosbach"
+    },
+    {
+      "title": "Jahreshauptversammlung",
+      "startDate": "1452639600",
+      "startTime": "68400",
+      "allday": "0",
+      "categoryTitle": "Katholische Kirche",
+      "locationName": "Pfarrzentrum, Niederjosbach"
+    },
+    {
+      "title": "Mitgliederversammlung",
+      "startDate": "1455231600",
+      "startTime": "68400",
+      "allday": "0",
+      "categoryTitle": "Obst- und Gartenbauverein",
+      "locationName": "Pfarrzentrum, Niederjosbach"
+    },
+    {
+      "title": "Baumschnittkurs Theorie",
+      "startDate": "1457046000",
+      "startTime": "68400",
+      "allday": "0",
+      "categoryTitle": "Obst- und Gartenbauverein",
+      "locationName": "Feuerwehr, Niederjosbach"
+    },
+    {
+      "title": "Mitgliederversammlung",
+      "startDate": "1456441200",
+      "startTime": "64800",
+      "allday": "0",
+      "categoryTitle": "Obst- und Gartenbauverein",
+      "locationName": "Pfarrzentrum, Niederjosbach"
+    },
+    {
+      "title": "Baumschnittkurs Praxis",
+      "startDate": "1457132400",
+      "startTime": "36000",
+      "allday": "0",
+      "categoryTitle": "Obst- und Gartenbauverein",
+      "locationName": "Streuobstwiese, Niederjosbach"
+    },
+    {
+      "title": "Jahreshauptversammlung",
+      "startDate": "1457650800",
+      "startTime": "72000",
+      "allday": "0",
+      "categoryTitle": "Freiwillige Feuerwehr",
+      "locationName": "Feuerwehr, Niederjosbach"
+    },
+    {
+      "title": "Vereinsringsitzung",
+      "startDate": "1457910000",
+      "startTime": "72000",
+      "allday": "0",
+      "categoryTitle": "Vereinsring Niederjosbach",
+      "locationName": "Schützenraum, Niederjosbach"
+    },
+    {
+      "title": "Palmsonntag-Glücksschießen",
+      "startDate": "1458428400",
+      "startTime": "39600",
+      "allday": "0",
+      "categoryTitle": "Schützenverein Bremthal / Niederjosbach",
+      "locationName": "Schützenraum, Niederjosbach"
+    },
+    {
+      "title": "Mitgliederversammlung",
+      "startDate": "1460671200",
+      "startTime": "72000",
+      "allday": "0",
+      "categoryTitle": "Schützenverein Bremthal / Niederjosbach",
+      "locationName": "Schützenraum, Niederjosbach"
+    },
+    {
+      "title": "Frühschoppen",
+      "startDate": "1462053600",
+      "startTime": "39600",
+      "allday": "0",
+      "categoryTitle": "Freiwillige Feuerwehr",
+      "locationName": "Feuerwehr, Niederjosbach"
+    },
+    {
+      "title": "Vereinspokalschießen",
+      "startDate": "1462312800",
+      "startTime": "68400",
+      "allday": "0",
+      "categoryTitle": "Schützenverein Bremthal / Niederjosbach",
+      "locationName": "Schützenraum, Niederjosbach"
+    },
+    {
+      "title": "Vatertag",
+      "startDate": "1462399200",
+      "startTime": "39600",
+      "allday": "0",
+      "categoryTitle": "Gesangverein Sängerlust",
+      "locationName": "Dorfplatz, Niederjosbach"
+    },
+    {
+      "title": "Vereinspokalschießen",
+      "startDate": "1462485600",
+      "startTime": "68400",
+      "allday": "0",
+      "categoryTitle": "Schützenverein Bremthal / Niederjosbach",
+      "locationName": "Schützenraum, Niederjosbach"
+    },
+    {
+      "title": "Vereinspokalschießen",
+      "startDate": "1462917600",
+      "startTime": "68400",
+      "allday": "0",
+      "categoryTitle": "Schützenverein Bremthal / Niederjosbach",
+      "locationName": "Schützenraum, Niederjosbach"
+    },
+    {
+      "title": "Vereinspokalschießen",
+      "startDate": "1463090400",
+      "startTime": "68400",
+      "allday": "0",
+      "categoryTitle": "Schützenverein Bremthal / Niederjosbach",
+      "locationName": "Schützenraum, Niederjosbach"
+    },
+    {
+      "title": "Vereinspokalschießen",
+      "startDate": "1463522400",
+      "startTime": "68400",
+      "allday": "0",
+      "categoryTitle": "Schützenverein Bremthal / Niederjosbach",
+      "locationName": "Schützenraum, Niederjosbach"
+    },
+    {
+      "title": "Vereinspokalschießen",
+      "startDate": "1463695200",
+      "startTime": "68400",
+      "allday": "0",
+      "categoryTitle": "Schützenverein Bremthal / Niederjosbach",
+      "locationName": "Schützenraum, Niederjosbach"
+    },
+    {
+      "title": "Fronleichnam + Pfarrfest",
+      "startDate": "1464472800",
+      "startTime": "36000",
+      "allday": "0",
+      "categoryTitle": "Katholische Kirche",
+      "locationName": "Pfarrzentrum, Niederjosbach"
+    },
+    {
+      "title": "Hessischer Frühschoppen mit Siegerehrung Vereinspokalschießen",
+      "startDate": "1465682400",
+      "startTime": "39600",
+      "allday": "0",
+      "categoryTitle": "Schützenverein Bremthal / Niederjosbach",
+      "locationName": "Schützenraum, Niederjosbach"
+    },
+    {
+      "title": "Dorfplatzfest",
+      "startDate": "1468015200",
+      "startTime": "54000",
+      "allday": "0",
+      "categoryTitle": "Gesangverein Taunusliebe",
+      "locationName": "Dorfplatz, Niederjosbach"
+    },
+    {
+      "title": "Dorfplatzfest",
+      "startDate": "1468101600",
+      "startTime": "39600",
+      "allday": "0",
+      "categoryTitle": "Gesangverein Taunusliebe",
+      "locationName": "Dorfplatz, Niederjosbach"
+    },
+    {
+      "title": "Jugendfußballturnier",
+      "startDate": "1472162400",
+      "startTime": "0",
+      "allday": "0",
+      "categoryTitle": "TuS Niederjosbach",
+      "locationName": "Sportarena, Niederjosbach"
+    },
+    {
+      "title": "125 Jahre GV Sängerlust",
+      "startDate": "1472853600",
+      "startTime": "0",
+      "allday": "0",
+      "categoryTitle": "Gesangverein Sängerlust",
+      "locationName": "Comeniushalle, Bremthal"
+    },
+    {
+      "title": "Jugendfußballturnier",
+      "startDate": "1472767200",
+      "startTime": "0",
+      "allday": "1",
+      "categoryTitle": "TuS Niederjosbach",
+      "locationName": "Sportarena, Niederjosbach"
+    },
+    {
+      "title": "125 Jahre GV Sängerlust",
+      "startDate": "1472940000",
+      "startTime": "0",
+      "allday": "0",
+      "categoryTitle": "Gesangverein Sängerlust",
+      "locationName": "Comeniushalle, Bremthal"
+    },
+    {
+      "title": "Jugendfußballturnier",
+      "startDate": "1472853600",
+      "startTime": "0",
+      "allday": "0",
+      "categoryTitle": "TuS Niederjosbach",
+      "locationName": "Sportarena, Niederjosbach"
+    },
+    {
+      "title": "Jugendfußballturnier",
+      "startDate": "1472940000",
+      "startTime": "0",
+      "allday": "0",
+      "categoryTitle": "TuS Niederjosbach",
+      "locationName": "Sportarena, Niederjosbach"
+    },
+    {
+      "title": "40 Jahre Jugendfeuerwehr",
+      "startDate": "1473458400",
+      "startTime": "0",
+      "allday": "0",
+      "categoryTitle": "Freiwillige Feuerwehr",
+      "locationName": "P+R-Platz, Niederjosbach"
+    },
+    {
+      "title": "Oktoberfest",
+      "startDate": "1474063200",
+      "startTime": "68400",
+      "allday": "0",
+      "categoryTitle": "GCC",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "Kelter- und Latwerjefest",
+      "startDate": "1474754400",
+      "startTime": "39600",
+      "allday": "0",
+      "categoryTitle": "Obst- und Gartenbauverein",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "Vereinsringsitzung",
+      "startDate": "1476050400",
+      "startTime": "72000",
+      "allday": "0",
+      "categoryTitle": "Vereinsring Niederjosbach",
+      "locationName": "Schützenraum, Niederjosbach"
+    },
+    {
+      "title": "Musikalischer Abend",
+      "startDate": "1478300400",
+      "startTime": "72000",
+      "allday": "0",
+      "categoryTitle": "Gesangverein Sängerlust",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "Rathaussturm",
+      "startDate": "1478905200",
+      "startTime": "61860",
+      "allday": "0",
+      "categoryTitle": "GCC",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "Gedenken zum Volkstrauertag",
+      "startDate": "1478991600",
+      "startTime": "36000",
+      "allday": "0",
+      "categoryTitle": "Vereinsring Niederjosbach",
+      "locationName": "Ehrenmal, Niederjosbach"
+    },
+    {
+      "title": "Abschlussfeier FFW",
+      "startDate": "1479510000",
+      "startTime": "66600",
+      "allday": "0",
+      "categoryTitle": "Freiwillige Feuerwehr",
+      "locationName": "Feuerwehr, Niederjosbach"
+    },
+    {
+      "title": "Unterhaltungsabend mit 1. Aufführung des Theaterstücks",
+      "startDate": "1480114800",
+      "startTime": "68400",
+      "allday": "0",
+      "categoryTitle": "Gesangverein Taunusliebe",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "Kaffeenachmittag mit 2. Aufführung des Theaterstücks",
+      "startDate": "1480201200",
+      "startTime": "54000",
+      "allday": "0",
+      "categoryTitle": "Gesangverein Taunusliebe",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "Adventsmarkt der Vereine",
+      "startDate": "1480806000",
+      "startTime": "39600",
+      "allday": "0",
+      "categoryTitle": "Vereinsring Niederjosbach",
+      "locationName": "Dorfplatz, Niederjosbach"
+    },
+    {
+      "title": "Weihnachtsfeier Chor + Helfer",
+      "startDate": "1481238000",
+      "startTime": "66600",
+      "allday": "0",
+      "categoryTitle": "Gesangverein Taunusliebe",
+      "locationName": "Vereinssaal, Niederjosbach"
+    },
+    {
+      "title": "Adventscafé",
+      "startDate": "1481324400",
+      "startTime": "55800",
+      "allday": "0",
+      "categoryTitle": "Obst- und Gartenbauverein",
+      "locationName": "Pfarrzentrum, Niederjosbach"
+    },
+    {
+      "title": "Weihnachtsfeier",
+      "startDate": "1481929200",
+      "startTime": "0",
+      "allday": "0",
+      "categoryTitle": "Schützenverein Bremthal / Niederjosbach",
+      "locationName": "Schützenraum, Niederjosbach"
+    },
+    {
+      "title": "Turmblasen",
+      "startDate": "1482534000",
+      "startTime": "59400",
+      "allday": "0",
+      "categoryTitle": "Freiwillige Feuerwehr",
+      "locationName": "Feuerwehr, Niederjosbach"
+    },
+    {
+      "title": "Baumschnittkurs Theorie",
+      "startDate": "1488495600",
+      "startTime": "68400",
+      "allday": "0",
+      "categoryTitle": "Obst- und Gartenbauverein",
+      "locationName": "Feuerwehr, Niederjosbach"
+    },
+    {
+      "title": "Baumschnittkurs Praxis",
+      "startDate": "1488582000",
+      "startTime": "36000",
+      "allday": "0",
+      "categoryTitle": "Obst- und Gartenbauverein",
+      "locationName": "Streuobstwiese, Niederjosbach"
+    },
+    {
+      "title": "Seniorenfußballturnier",
+      "startDate": "1469829600",
+      "startTime": "0",
+      "allday": "0",
+      "categoryTitle": "TuS Niederjosbach",
+      "locationName": "Sportarena, Niederjosbach"
+    },
+    {
+      "title": "Seniorenfußballturnier",
+      "startDate": "1469916000",
+      "startTime": "0",
+      "allday": "0",
+      "categoryTitle": "TuS Niederjosbach",
+      "locationName": "Sportarena, Niederjosbach"
+    }
+  ]
+}

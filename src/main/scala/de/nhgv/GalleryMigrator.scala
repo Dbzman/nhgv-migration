@@ -17,9 +17,7 @@ object GalleryMigrator extends App {
   implicit val formats = DefaultFormats
 
   case class Row(name: String, date: String, galleryImage: String)
-
   case class Container(rows: Seq[Row])
-
   case class GalleryItem(name: String, date: LocalDateTime, galleryPath: String, galleryImage: String)
 
   def readJson: Container = {
