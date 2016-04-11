@@ -1,8 +1,8 @@
 package de.nhgv
 
-import java.io.{FileWriter, BufferedWriter, File}
+import java.io.{BufferedWriter, File, FileWriter}
 import java.sql.Timestamp
-import java.time.LocalDateTime
+import java.time.{LocalDateTime, OffsetDateTime, ZoneOffset}
 
 import org.json4s.DefaultFormats
 import org.json4s.native.JsonMethods._
@@ -29,7 +29,8 @@ object EventMigrator extends App {
 
   def createEventItems: Seq[EventItem] = {
     readJson.rows.map { row =>
-      val combinedDate = (row.startDate.toLong + row.startTime.toLong) * 1000
+      // hackathy hack: add 2 hours...
+      val combinedDate = (row.startDate.toLong + row.startTime.toLong) * 1000 + 7200000
       val offsettedDate = if (combinedDate.toString.endsWith("0")) combinedDate + 1 else combinedDate
 
       val date = new Timestamp(offsettedDate).toLocalDateTime
