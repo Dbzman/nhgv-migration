@@ -5,7 +5,7 @@
       "Uhrzeit": "18:30",
       "Stadtteil": "Niederjosbach",
       "Ort": "Kastanienhof",
-      "Name": "Stammtisch HGV",
+      "Name": "Stammtisch",
       "Verein": "Heimatverein"
     },
     {
@@ -21,7 +21,7 @@
       "Uhrzeit": "",
       "Stadtteil": "Niederjosbach",
       "Ort": "Vereinssaal",
-      "Name": "Senatorenempfang GCC",
+      "Name": "Senatorenempfang",
       "Verein": "GCC"
     },
     {
@@ -29,7 +29,7 @@
       "Uhrzeit": "19:11",
       "Stadtteil": "Niederjosbach",
       "Ort": "Vereinssaal",
-      "Name": "1. Sitzung",
+      "Name": "1. Fastnachtsitzung",
       "Verein": "GCC"
     },
     {
@@ -61,15 +61,15 @@
       "Uhrzeit": "19:11",
       "Stadtteil": "Niederjosbach",
       "Ort": "Vereinssaal",
-      "Name": "2. Sitzung",
+      "Name": "2. Fastnachtsitzung",
       "Verein": "GCC"
     },
     {
       "Datum": "28.02.2017",
       "Uhrzeit": "14:11",
       "Stadtteil": "Niederjosbach",
-      "Ort": "Straßen+Vereinssaal",
-      "Name": "Fastnachtsumzug+Ausklang",
+      "Ort": "Straßen + Vereinssaal",
+      "Name": "Fastnachtsumzug",
       "Verein": "GCC"
     },
     {
@@ -109,7 +109,7 @@
       "Uhrzeit": "18:30",
       "Stadtteil": "Niederjosbach",
       "Ort": "Kastanienhof",
-      "Name": "Stammtisch HGV",
+      "Name": "Stammtisch",
       "Verein": "Heimatverein"
     },
     {
@@ -140,7 +140,7 @@
       "Datum": "09.04.2017",
       "Uhrzeit": "11:00",
       "Stadtteil": "Niederjosbach",
-      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa",
       "Name": "Palmsonntag-Glücksschießen",
       "Verein": "Schützenverein Bremthal / Niederjosbach"
     },
@@ -148,7 +148,7 @@
       "Datum": "21.04.2017",
       "Uhrzeit": "20:00",
       "Stadtteil": "Niederjosbach",
-      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa",
       "Name": "Mitgliederversammlung",
       "Verein": "Schützenverein Bremthal / Niederjosbach"
     },
@@ -164,7 +164,7 @@
       "Datum": "03.05.2017",
       "Uhrzeit": "19:00",
       "Stadtteil": "Niederjosbach",
-      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa",
       "Name": "Vereinspokalschießen",
       "Verein": "Schützenverein Bremthal / Niederjosbach"
     },
@@ -172,7 +172,7 @@
       "Datum": "05.05.2017",
       "Uhrzeit": "19:00",
       "Stadtteil": "Niederjosbach",
-      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa",
       "Name": "Vereinspokalschießen",
       "Verein": "Schützenverein Bremthal / Niederjosbach"
     },
@@ -180,7 +180,7 @@
       "Datum": "10.05.2017",
       "Uhrzeit": "19:00",
       "Stadtteil": "Niederjosbach",
-      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa",
       "Name": "Vereinspokalschießen",
       "Verein": "Schützenverein Bremthal / Niederjosbach"
     },
@@ -188,7 +188,7 @@
       "Datum": "12.05.2017",
       "Uhrzeit": "19:00",
       "Stadtteil": "Niederjosbach",
-      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa",
       "Name": "Vereinspokalschießen",
       "Verein": "Schützenverein Bremthal / Niederjosbach"
     },
@@ -196,7 +196,7 @@
       "Datum": "17.05.2017",
       "Uhrzeit": "19:00",
       "Stadtteil": "Niederjosbach",
-      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa",
       "Name": "Vereinspokalschießen",
       "Verein": "Schützenverein Bremthal / Niederjosbach"
     },
@@ -204,7 +204,7 @@
       "Datum": "19.05.2017",
       "Uhrzeit": "19:00",
       "Stadtteil": "Niederjosbach",
-      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa",
       "Name": "Vereinspokalschießen",
       "Verein": "Schützenverein Bremthal / Niederjosbach"
     },
@@ -237,7 +237,7 @@
       "Uhrzeit": "18:30",
       "Stadtteil": "Niederjosbach",
       "Ort": "Kastanienhof",
-      "Name": "Stammtisch HGV",
+      "Name": "Stammtisch",
       "Verein": "Heimatverein"
     },
     {
@@ -252,7 +252,7 @@
       "Datum": "11.06.2017",
       "Uhrzeit": "11:00",
       "Stadtteil": "Niederjosbach",
-      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa",
       "Name": "Hessischer Frühschoppen mit Siegerehrung Vereinspokalschießen",
       "Verein": "Schützenverein Bremthal / Niederjosbach"
     },
@@ -324,7 +324,7 @@
       "Datum": "13.09.2017",
       "Uhrzeit": "",
       "Stadtteil": "Niederjosbach",
-      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa",
       "Name": "Königsschießen",
       "Verein": "Schützenverein Bremthal / Niederjosbach"
     },
@@ -332,7 +332,7 @@
       "Datum": "15.09.2017",
       "Uhrzeit": "",
       "Stadtteil": "Niederjosbach",
-      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa",
       "Name": "Königsschießen",
       "Verein": "Schützenverein Bremthal / Niederjosbach"
     },
@@ -348,7 +348,7 @@
       "Datum": "20.09.2017",
       "Uhrzeit": "",
       "Stadtteil": "Niederjosbach",
-      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa",
       "Name": "Königsschießen",
       "Verein": "Schützenverein Bremthal / Niederjosbach"
     },
@@ -356,7 +356,7 @@
       "Datum": "22.09.2017",
       "Uhrzeit": "",
       "Stadtteil": "Niederjosbach",
-      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa",
       "Name": "Königsschießen",
       "Verein": "Schützenverein Bremthal / Niederjosbach"
     },
@@ -364,7 +364,7 @@
       "Datum": "28.09.2017",
       "Uhrzeit": "",
       "Stadtteil": "Niederjosbach",
-      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa",
       "Name": "Königsfeier",
       "Verein": "Schützenverein Bremthal / Niederjosbach"
     },
@@ -373,15 +373,15 @@
       "Uhrzeit": "18:30",
       "Stadtteil": "Niederjosbach",
       "Ort": "Kastanienhof",
-      "Name": "Stammtisch HGV",
-      "Verein": "Heimatverein (HGV)"
+      "Name": "Stammtisch",
+      "Verein": "Heimatverein"
     },
     {
       "Datum": "21.10.2017",
       "Uhrzeit": "14:00",
       "Stadtteil": "Niederjosbach",
       "Ort": "Ecke Eppsteinerstr. / Gartenstr.",
-      "Name": "Dickworzschnitze",
+      "Name": "Dickworzschnitzen",
       "Verein": "Heimatverein"
     },
     {
@@ -437,7 +437,7 @@
       "Uhrzeit": "18:30",
       "Stadtteil": "Niederjosbach",
       "Ort": "Feuerwehrhaus",
-      "Name": "Abschlussfeier FFW",
+      "Name": "Abschlussfeier",
       "Verein": "Freiwillige Feuerwehr"
     },
     {
@@ -477,7 +477,7 @@
       "Uhrzeit": "17:00",
       "Stadtteil": "Niederjosbach",
       "Ort": "",
-      "Name": "Weihnachtsfeier GCC",
+      "Name": "Weihnachtsfeier",
       "Verein": "GCC"
     },
     {
@@ -501,7 +501,7 @@
       "Uhrzeit": "",
       "Stadtteil": "Niederjosbach",
       "Ort": "Schützenraum",
-      "Name": "Weihnachtsfeier Schützen",
+      "Name": "Weihnachtsfeier",
       "Verein": "Schützenverein Bremthal / Niederjosbach"
     },
     {

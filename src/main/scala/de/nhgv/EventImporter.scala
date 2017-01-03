@@ -19,7 +19,7 @@ object EventImporter extends App {
 
   case class Container(rows: Seq[Row])
 
-  case class EventItem(title: String, date: LocalDateTime, verein: String, ort: String, fileName: String)
+  case class EventItem(title: String, date: LocalDateTime, verein: String, ort: String, stadtteil: String, fileName: String)
 
   def readJson: Container = {
     val fileContent: String = scala.io.Source.fromInputStream(getClass().getClassLoader().getResourceAsStream(sourceFilePath)).mkString
@@ -57,6 +57,7 @@ object EventImporter extends App {
         date = date,
         verein = row.Verein,
         ort = row.Ort,
+        stadtteil = row.Stadtteil,
         fileName = s"${date.getYear}/${month}_${day}_${convertNameToFilename(row.Name)}")
     }
   }
@@ -78,12 +79,14 @@ object EventImporter extends App {
     val file = new File(s"${targetPath}${item.fileName}.md")
     val bw = new BufferedWriter(new FileWriter(file))
 
+    val location = if(item.ort.nonEmpty) s"${item.ort}, ${item.stadtteil}" else ""
+
     val fileContent =
       s"""+++
           |date = "${item.date}:00.000+02:00"
           |title = '${item.title}'
           |verein = '${item.verein}'
-          |ort = '${item.ort}'
+          |ort = '${location}'
           |
         |+++
           |
