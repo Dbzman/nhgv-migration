@@ -1,0 +1,532 @@
+{
+  "rows": [
+    {
+      "Datum": "05.01.2018",
+      "Uhrzeit": "19:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "St. Michael",
+      "Name": "Neujahrskonzert Colcanto Frankfurt",
+      "Verein": "Förderverein St. Michael"
+    },
+    {
+      "Datum": "19.01.2018",
+      "Uhrzeit": "18:30",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Kastanienhof",
+      "Name": "Stammtisch",
+      "Verein": "Heimatverein"
+    },
+    {
+      "Datum": "20.01.2018",
+      "Uhrzeit": "",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Vereinssaal",
+      "Name": "Senatorenempfang GCC",
+      "Verein": "GCC"
+    },
+    {
+      "Datum": "27.01.2018",
+      "Uhrzeit": "19:11",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Vereinssaal",
+      "Name": "1. Sitzung",
+      "Verein": "GCC"
+    },
+    {
+      "Datum": "28.01.2018",
+      "Uhrzeit": "15:11",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Vereinssaal",
+      "Name": "Jugend in der Bütt",
+      "Verein": "GCC"
+    },
+    {
+      "Datum": "30.01.2018",
+      "Uhrzeit": "15:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Vereinssaal",
+      "Name": "Kreppelkaffee für Senioren",
+      "Verein": "Stadt Eppstein+GCC"
+    },
+    {
+      "Datum": "10.02.2018",
+      "Uhrzeit": "10:00",
+      "Stadtteil": "Eppstein",
+      "Ort": "Bienrothhalle",
+      "Name": "Fastnachtsvolleyballturnier",
+      "Verein": "TuS Niederjosbach"
+    },
+    {
+      "Datum": "11.02.2018",
+      "Uhrzeit": "19:11",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Vereinssaal",
+      "Name": "2. Sitzung",
+      "Verein": "GCC"
+    },
+    {
+      "Datum": "13.02.2018",
+      "Uhrzeit": "14:11",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Straßen + Vereinssaal",
+      "Name": "Fastnachtsumzug + Ausklang",
+      "Verein": "GCC"
+    },
+    {
+      "Datum": "14.02.2018",
+      "Uhrzeit": "19:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Vereinssaal",
+      "Name": "Heringsessen",
+      "Verein": "GCC"
+    },
+    {
+      "Datum": "16.02.2018",
+      "Uhrzeit": "19:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Vereinssaal",
+      "Name": "Mitgliederversammlung",
+      "Verein": "Gesangverein Taunusliebe"
+    },
+    {
+      "Datum": "23.02.2018",
+      "Uhrzeit": "20:30",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Feuerwehr",
+      "Name": "Jahreshauptversammlung",
+      "Verein": "Freiwillige Feuerwehr"
+    },
+    {
+      "Datum": "02.03.2018",
+      "Uhrzeit": "19:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Feuerwehr",
+      "Name": "Baumschnittkurs Theorie",
+      "Verein": "Obst- und Gartenbauverein"
+    },
+    {
+      "Datum": "03.03.2018",
+      "Uhrzeit": "10:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Streuobstwiese",
+      "Name": "Baumschnittkurs Praxis",
+      "Verein": "Obst- und Gartenbauverein"
+    },
+    {
+      "Datum": "05.03.2018",
+      "Uhrzeit": "17:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Gemeindezentrum",
+      "Name": "Kleiderbasar",
+      "Verein": "Basarteam Niederjosbach"
+    },
+    {
+      "Datum": "23.03.2018",
+      "Uhrzeit": "19:30",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Vereinssaal",
+      "Name": "Mitgliederversammlung",
+      "Verein": "Heimatverein"
+    },
+    {
+      "Datum": "25.03.2018",
+      "Uhrzeit": "11:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Name": "Palmsonntag-Glücksschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "20.04.2018",
+      "Uhrzeit": "20:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Name": "Mitgliederversammlung",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "27.04.2018",
+      "Uhrzeit": "18:30",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Kastanienhof",
+      "Name": "Stammtisch",
+      "Verein": "Heimatverein"
+    },
+    {
+      "Datum": "01.05.2018",
+      "Uhrzeit": "11:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Platz vor u. im Feuerwehrgerätehaus",
+      "Name": "Frühschoppen (Musik ab 11 Uhr)",
+      "Verein": "Freiwillige Feuerwehr"
+    },
+    {
+      "Datum": "02.05.2018",
+      "Uhrzeit": "19:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Name": "Vereinspokalschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "04.05.2018",
+      "Uhrzeit": "19:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Name": "Vereinspokalschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "09.05.2018",
+      "Uhrzeit": "19:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Name": "Vereinspokalschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "10.05.2018",
+      "Uhrzeit": "11:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Dorfplatz",
+      "Name": "Vatertag",
+      "Verein": "Gesangverein Sängerlust"
+    },
+    {
+      "Datum": "10.05.2018",
+      "Uhrzeit": "",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "",
+      "Name": "Vatertagswanderung",
+      "Verein": "Freiwillige Feuerwehr"
+    },
+    {
+      "Datum": "10.05.2018",
+      "Uhrzeit": "",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "",
+      "Name": "Vatertagswanderung",
+      "Verein": "Gesangverein Taunusliebe"
+    },
+    {
+      "Datum": "11.05.2018",
+      "Uhrzeit": "19:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Name": "Vereinspokalschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "16.05.2018",
+      "Uhrzeit": "19:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Name": "Vereinspokalschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "18.05.2018",
+      "Uhrzeit": "19:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Name": "Vereinspokalschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "03.06.2018",
+      "Uhrzeit": "10:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Kirche+Pfarrzentrum",
+      "Name": "Fronleichnam + Pfarrfest",
+      "Verein": "Katholischer Kirchenchor"
+    },
+    {
+      "Datum": "10.06.2018",
+      "Uhrzeit": "11:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Name": "Hessischer Frühschoppen mit Siegerehrung Vereinspokalschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "15.06.2018",
+      "Uhrzeit": "18:30",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Kastanienhof",
+      "Name": "Stammtisch",
+      "Verein": "Heimatverein"
+    },
+    {
+      "Datum": "16.06.2018",
+      "Uhrzeit": "15:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Dorfplatz",
+      "Name": "Dorfplatzfest",
+      "Verein": "Gesangverein Taunusliebe"
+    },
+    {
+      "Datum": "17.06.2018",
+      "Uhrzeit": "11:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Dorfplatz",
+      "Name": "Dorfplatzfest",
+      "Verein": "Gesangverein Taunusliebe"
+    },
+    {
+      "Datum": "28.07.2018",
+      "Uhrzeit": "",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "",
+      "Name": "Sommerfest",
+      "Verein": "Heimatverein"
+    },
+    {
+      "Datum": "19.08.2018",
+      "Uhrzeit": "",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Sportarena",
+      "Name": "Sportabzeichenfest",
+      "Verein": "TuS Niederjosbach"
+    },
+    {
+      "Datum": "08.09.2018",
+      "Uhrzeit": "",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "",
+      "Name": "Tag der Feuerwehr",
+      "Verein": "Freiwillige Feuerwehr"
+    },
+    {
+      "Datum": "12.09.2018",
+      "Uhrzeit": "",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Name": "Königsschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "14.09.2018",
+      "Uhrzeit": "",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Name": "Königsschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "16.09.2018",
+      "Uhrzeit": "11:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Parkplatz Vereinssaal",
+      "Name": "Kelter- und Latwerjefest",
+      "Verein": "Obst- und Gartenbauverein"
+    },
+    {
+      "Datum": "19.09.2018",
+      "Uhrzeit": "",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Name": "Königsschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "21.09.2018",
+      "Uhrzeit": "",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Name": "Königsschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "21.09.2018",
+      "Uhrzeit": "18:30",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Kastanienhof",
+      "Name": "Stammtisch",
+      "Verein": "Heimatverein"
+    },
+    {
+      "Datum": "14.10.2018",
+      "Uhrzeit": "11:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Kirche",
+      "Name": "Kirchweihfest",
+      "Verein": "Katholischer Kirchenchor"
+    },
+    {
+      "Datum": "15.10.2018",
+      "Uhrzeit": "20:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Schützenraum",
+      "Name": "Vereinsringsitzung",
+      "Verein": "Vereinsring"
+    },
+    {
+      "Datum": "20.10.2018",
+      "Uhrzeit": "14:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Ecke Eppsteinerstr. / Gartenstr.",
+      "Name": "Dickworzschnitze",
+      "Verein": "Heimatverein"
+    },
+    {
+      "Datum": "27.10.2018",
+      "Uhrzeit": "",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Schützenraum, UG KiTa Niederjosbach",
+      "Name": "Königsfeier",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "28.10.2018",
+      "Uhrzeit": "11:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Vereinssaal",
+      "Name": "Hobbykünstlermarkt",
+      "Verein": "Hobbykünstler"
+    },
+    {
+      "Datum": "03.11.2018",
+      "Uhrzeit": "20:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Vereinssaal",
+      "Name": "Musikalischer Abend",
+      "Verein": "Gesangverein Sängerlust"
+    },
+    {
+      "Datum": "09.11.2018",
+      "Uhrzeit": "17:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Kirche/KiTa",
+      "Name": "Sankt Martin",
+      "Verein": "KiTa Niederjosbach"
+    },
+    {
+      "Datum": "11.11.2018",
+      "Uhrzeit": "17:11",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Vereinssaal",
+      "Name": "Rathaussturm",
+      "Verein": "GCC"
+    },
+    {
+      "Datum": "18.11.2018",
+      "Uhrzeit": "10:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Ehrenmal",
+      "Name": "Gedenken zum Volkstrauertag",
+      "Verein": "Vereinsring"
+    },
+    {
+      "Datum": "23.11.2018",
+      "Uhrzeit": "18:30",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Feuerwehrhaus",
+      "Name": "Abschlussfeier FFW",
+      "Verein": "Freiwillige Feuerwehr"
+    },
+    {
+      "Datum": "01.12.2018",
+      "Uhrzeit": "19:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Vereinssaal",
+      "Name": "Unterhaltungsabend mit 1. Aufführung des Theaterstücks",
+      "Verein": "Gesangverein Taunusliebe"
+    },
+    {
+      "Datum": "02.12.2018",
+      "Uhrzeit": "15:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Vereinssaal",
+      "Name": "Kaffeenachmittag mit 2. Aufführung des Theaterstücks",
+      "Verein": "Gesangverein Taunusliebe"
+    },
+    {
+      "Datum": "05.12.2018",
+      "Uhrzeit": "15:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "",
+      "Name": "Nikolausdienst der Feuerwehr",
+      "Verein": "Freiwillige Feuerwehr"
+    },
+    {
+      "Datum": "06.12.2018",
+      "Uhrzeit": "15:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "",
+      "Name": "Nikolausdienst der Feuerwehr",
+      "Verein": "Freiwillige Feuerwehr"
+    },
+    {
+      "Datum": "08.12.2018",
+      "Uhrzeit": "17:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "",
+      "Name": "Weihnachtsfeier GCC",
+      "Verein": "GCC"
+    },
+    {
+      "Datum": "09.12.2018",
+      "Uhrzeit": "11:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Dorfplatz",
+      "Name": "Adventsmarkt der Vereine",
+      "Verein": "Vereinsring"
+    },
+    {
+      "Datum": "09.12.2018",
+      "Uhrzeit": "15:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Kirche",
+      "Name": "Mitsingkonzert",
+      "Verein": "Kirchengemeinde"
+    },
+    {
+      "Datum": "12.12.2018",
+      "Uhrzeit": "15:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Pfarrgemeindezentrum",
+      "Name": "Senioren-Weihnacht",
+      "Verein": "Stadt + Kirchengemeinden"
+    },
+    {
+      "Datum": "14.12.2018",
+      "Uhrzeit": "18:30",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Vereinssaal",
+      "Name": "Weihnachtsfeier Chor + Helfer",
+      "Verein": "Gesangverein Taunusliebe"
+    },
+    {
+      "Datum": "15.12.2018",
+      "Uhrzeit": "15:30",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Pfarrzentrum",
+      "Name": "Adventscafé",
+      "Verein": "Obst- und Gartenbauverein"
+    },
+    {
+      "Datum": "15.12.2018",
+      "Uhrzeit": "",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Schützenraum",
+      "Name": "Weihnachtsfeier Schützen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "24.12.2018",
+      "Uhrzeit": "16:00",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Kirche",
+      "Name": "Krippenspiel",
+      "Verein": "Kirchengemeinde"
+    },
+    {
+      "Datum": "24.12.2018",
+      "Uhrzeit": "16:30",
+      "Stadtteil": "Niederjosbach",
+      "Ort": "Feuerwehrgerätehaus",
+      "Name": "Turmblasen",
+      "Verein": "Freiwillige Feuerwehr"
+    }
+  ]
+}

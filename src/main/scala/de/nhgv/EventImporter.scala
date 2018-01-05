@@ -11,7 +11,7 @@ import org.json4s.native.JsonMethods._
   * Created by timolitzius on 04.04.16.
   */
 object EventImporter extends App {
-  val sourceFilePath = "events_2017.json"
+  val sourceFilePath = "events_2018.json"
   val targetPath = "/Users/timolitzius/Development/Projects/heimatverein-niederjosbach/content/termine/"
   implicit val formats = DefaultFormats
 
