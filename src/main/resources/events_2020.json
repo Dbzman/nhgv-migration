@@ -1,0 +1,431 @@
+{
+  "rows": [
+    {
+      "Datum": "03.01.2020",
+      "Uhrzeit": "19:00",
+      "Ort": "St. Michael",
+      "Name": "Neujahrskonzert \"Colcanto Frankfurt",
+      "Verein": "Föderverein St. Michael"
+    },
+    {
+      "Datum": "15.01.2020",
+      "Uhrzeit": "19:00",
+      "Ort": "Pfarrgemeindezentrum",
+      "Name": "MGV Kirchenchor",
+      "Verein": "Kirchenchor"
+    },
+    {
+      "Datum": "26.01.2020",
+      "Uhrzeit": "15:00",
+      "Ort": "Vereinssaal",
+      "Name": "Senatorenempfang GCC",
+      "Verein": "GCC 1981 e.V."
+    },
+    {
+      "Datum": "31.01.2020",
+      "Uhrzeit": "18:30",
+      "Ort": "Kastanienhof",
+      "Name": "Stammtisch HGV",
+      "Verein": "Heimatverein"
+    },
+    {
+      "Datum": "08.02.2020",
+      "Uhrzeit": "",
+      "Ort": "Vereinssaal",
+      "Name": "Schoppe-Gucke-Danse",
+      "Verein": "GCC 1981 e.V."
+    },
+    {
+      "Datum": "11.02.2020",
+      "Uhrzeit": "15:00",
+      "Ort": "Vereinssaal",
+      "Name": "Kreppelkaffee für Senioren",
+      "Verein": "Stadt Eppstein+GCC 1981 e.V."
+    },
+    {
+      "Datum": "16.02.2020",
+      "Uhrzeit": "15:11",
+      "Ort": "Vereinssaal",
+      "Name": "Jugend in der Bütt",
+      "Verein": "GCC 1981 e.V."
+    },
+    {
+      "Datum": "22.02.2020",
+      "Uhrzeit": "10:00",
+      "Ort": "Bienrothhalle",
+      "Name": "Fastnachtsvolleyballturnier",
+      "Verein": "TuS Niederjosbach Volleyball"
+    },
+    {
+      "Datum": "23.02.2020",
+      "Uhrzeit": "19:11",
+      "Ort": "Vereinssaal",
+      "Name": "Prunksitzung",
+      "Verein": "GCC 1981 e.V."
+    },
+    {
+      "Datum": "25.02.2020",
+      "Uhrzeit": "14:11",
+      "Ort": "Straßen+Vereinssaal",
+      "Name": "Fastnachtsumzug mit After-Zug-Party",
+      "Verein": "GCC 1981 e.V."
+    },
+    {
+      "Datum": "26.02.2020",
+      "Uhrzeit": "19:00",
+      "Ort": "Vereinssaal",
+      "Name": "Heringsessen",
+      "Verein": "GCC 1981 e.V."
+    },
+    {
+      "Datum": "28.02.2020",
+      "Uhrzeit": "19:00",
+      "Ort": "Vereinssaal",
+      "Name": "Mitgliederversammlung",
+      "Verein": "Gesangverein Taunusliebe"
+    },
+    {
+      "Datum": "27.03.2020",
+      "Uhrzeit": "19:30",
+      "Ort": "Vereinssaal",
+      "Name": "MGV Heimat- u.Geschichtsverein",
+      "Verein": "Heimatverein"
+    },
+    {
+      "Datum": "05.04.2020",
+      "Uhrzeit": "11:00",
+      "Ort": "Schützenraum, UG KiTa",
+      "Name": "Palmsonntag-Glücksschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "20.04.2020",
+      "Uhrzeit": "20:00",
+      "Ort": "Schützenraum",
+      "Name": "Vereinsringsitzung",
+      "Verein": "VR Niederjosbach"
+    },
+    {
+      "Datum": "24.04.2020",
+      "Uhrzeit": "18:30",
+      "Ort": "Kastanienhof",
+      "Name": "Stammtisch HGV",
+      "Verein": "Heimatverein"
+    },
+    {
+      "Datum": "06.05.2020",
+      "Uhrzeit": "20:00",
+      "Ort": "Schützenraum, UG KiTa",
+      "Name": "Vereinspokalschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "08.05.2020",
+      "Uhrzeit": "20:00",
+      "Ort": "Schützenraum, UG KiTa",
+      "Name": "Vereinspokalschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "13.05.2020",
+      "Uhrzeit": "20:00",
+      "Ort": "Schützenraum, UG KiTa",
+      "Name": "Vereinspokalschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "15.05.2020",
+      "Uhrzeit": "20:00",
+      "Ort": "Schützenraum, UG KiTa",
+      "Name": "Vereinspokalschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "20.05.2020",
+      "Uhrzeit": "20:00",
+      "Ort": "Schützenraum, UG KiTa",
+      "Name": "Vereinspokalschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "21.05.2020",
+      "Uhrzeit": "11:00",
+      "Ort": "Dorfplatz",
+      "Name": "Vatertag",
+      "Verein": "Gesangverein Sängerlust"
+    },
+    {
+      "Datum": "21.05.2020",
+      "Uhrzeit": "",
+      "Ort": "",
+      "Name": "Vatertagswanderung",
+      "Verein": "FFW Niederjosbach"
+    },
+    {
+      "Datum": "21.05.2020",
+      "Uhrzeit": "",
+      "Ort": "",
+      "Name": "Vatertagswanderung",
+      "Verein": "Gesangverein Taunusliebe"
+    },
+    {
+      "Datum": "22.05.2020",
+      "Uhrzeit": "20:00",
+      "Ort": "Schützenraum, UG KiTa",
+      "Name": "Vereinspokalschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "05.06.2020",
+      "Uhrzeit": "",
+      "Ort": "Kirche",
+      "Name": "Kinder-Musical",
+      "Verein": "Förderverein St. Michael"
+    },
+    {
+      "Datum": "07.06.2020",
+      "Uhrzeit": "11:00",
+      "Ort": "Schützenraum, UG KiTa",
+      "Name": "Hessischer Frühschoppen mit Siegerehrung Vereinspokalschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "06.06.2020",
+      "Uhrzeit": "",
+      "Ort": "",
+      "Name": "Ausflug OGV Niederjosbach",
+      "Verein": "OGV Niederjosbach"
+    },
+    {
+      "Datum": "20.06.2020",
+      "Uhrzeit": "",
+      "Ort": "",
+      "Name": "Auftritt Kinderchor + Schiffstour in Mainz",
+      "Verein": "Förderverein St. Michael"
+    },
+    {
+      "Datum": "27.06.2020",
+      "Uhrzeit": "15:00",
+      "Ort": "Dorfplatz",
+      "Name": "Dorfplatzfest",
+      "Verein": "Gesangverein Taunusliebe"
+    },
+    {
+      "Datum": "28.06.2020",
+      "Uhrzeit": "11:00",
+      "Ort": "Dorfplatz",
+      "Name": "Dorfplatzfest",
+      "Verein": "Gesangverein Taunusliebe"
+    },
+    {
+      "Datum": "15.08.2020",
+      "Uhrzeit": "",
+      "Ort": "Hof \"Alte Krone\" Fam. Volp",
+      "Name": "Sommerfest Heimat- und Geschichtsverein",
+      "Verein": "Heimatverein"
+    },
+    {
+      "Datum": "31.08.2020",
+      "Uhrzeit": "20:00",
+      "Ort": "Schützenraum",
+      "Name": "Advenstmarktsitzung",
+      "Verein": "Vereinsring"
+    },
+    {
+      "Datum": "06.09.2020",
+      "Uhrzeit": "10:00",
+      "Ort": "Burg",
+      "Name": "Stadtmesse",
+      "Verein": "Kath. Eppstein"
+    },
+    {
+      "Datum": "09.09.2020",
+      "Uhrzeit": "",
+      "Ort": "Schützenraum, UG KiTa",
+      "Name": "Königsschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "11.09.2020",
+      "Uhrzeit": "",
+      "Ort": "Schützenraum, UG KiTa",
+      "Name": "Königsschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "16.09.2020",
+      "Uhrzeit": "",
+      "Ort": "Schützenraum, UG KiTa",
+      "Name": "Königsschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "18.09.2020",
+      "Uhrzeit": "",
+      "Ort": "Schützenraum, UG KiTa",
+      "Name": "Königsschießen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "19.10.2020",
+      "Uhrzeit": "20:00",
+      "Ort": "Schützenraum",
+      "Name": "Vereinsringsitzung",
+      "Verein": "Vereinsring Njb."
+    },
+    {
+      "Datum": "23.10.2020",
+      "Uhrzeit": "",
+      "Ort": "Schützenraum, UG KiTa",
+      "Name": "Königsfeier",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "24.10.2020",
+      "Uhrzeit": "14:00",
+      "Ort": "Ecke Eppsteinerstr. / Gartenstr.",
+      "Name": "Dickworzschnitze",
+      "Verein": "Heimatverein"
+    },
+    {
+      "Datum": "25.10.2020",
+      "Uhrzeit": "11:00",
+      "Ort": "Vereinssaal",
+      "Name": "Hobbykünstlermarkt",
+      "Verein": "Hobbykünstler"
+    },
+    {
+      "Datum": "07.11.2020",
+      "Uhrzeit": "20:00",
+      "Ort": "Vereinssaal",
+      "Name": "Musikalischer Abend",
+      "Verein": "Gesangverein Sängerlust"
+    },
+    {
+      "Datum": "06.11.2020",
+      "Uhrzeit": "17:00",
+      "Ort": "Kirche",
+      "Name": "Sankt Martin",
+      "Verein": "KiTa Niederjosbach"
+    },
+    {
+      "Datum": "06.11.2020",
+      "Uhrzeit": "17:30",
+      "Ort": "Feuerwehr u. Straßen",
+      "Name": "Sankt Martin - Umzug",
+      "Verein": "FFW Niederjosbach"
+    },
+    {
+      "Datum": "14.11.2020",
+      "Uhrzeit": "17:11",
+      "Ort": "Vereinssaal",
+      "Name": "Rathaussturm",
+      "Verein": "GCC 1981 e.V."
+    },
+    {
+      "Datum": "15.11.2020",
+      "Uhrzeit": "10:00",
+      "Ort": "Ehrenmal",
+      "Name": "Gedenken zum Volkstrauertag",
+      "Verein": "Vereinsring (insb. Sängerlust) + Ortsvorsteherin"
+    },
+    {
+      "Datum": "21.11.2020",
+      "Uhrzeit": "18:30",
+      "Ort": "Feuerwehrhaus",
+      "Name": "Abschlussfeier FFW",
+      "Verein": "FFW Niederjosbach"
+    },
+    {
+      "Datum": "28.11.2020",
+      "Uhrzeit": "19:00",
+      "Ort": "Vereinssaal",
+      "Name": "Unterhaltungsabend mit 1. Aufführung des Theaterstücks",
+      "Verein": "Gesangverein Taunusliebe"
+    },
+    {
+      "Datum": "29.11.2020",
+      "Uhrzeit": "15:00",
+      "Ort": "Vereinssaal",
+      "Name": "Kaffeenachmittag mit 2. Aufführung des Theaterstücks",
+      "Verein": "Gesangverein Taunusliebe"
+    },
+    {
+      "Datum": "05.12.2020",
+      "Uhrzeit": "15:00",
+      "Ort": "",
+      "Name": "Nikolausdienst der Feuerwehr?",
+      "Verein": "FFW Niederjosbach"
+    },
+    {
+      "Datum": "06.12.2020",
+      "Uhrzeit": "15:00",
+      "Ort": "",
+      "Name": "Nikolausdienst der Feuerwehr?",
+      "Verein": "FFW Niederjosbach"
+    },
+    {
+      "Datum": "05.12.2020",
+      "Uhrzeit": "17:00",
+      "Ort": "",
+      "Name": "Weihnachtsfeier GCC",
+      "Verein": "GCC 1981 e.V."
+    },
+    {
+      "Datum": "06.12.2020",
+      "Uhrzeit": "11:00",
+      "Ort": "Dorfplatz",
+      "Name": "Adventsmarkt der Vereine",
+      "Verein": "Vereinsring Njb."
+    },
+    {
+      "Datum": "06.12.2020",
+      "Uhrzeit": "15:00",
+      "Ort": "Kirche",
+      "Name": "Mitsingkonzert",
+      "Verein": "Kirchengemeinde"
+    },
+    {
+      "Datum": "11.12.2020",
+      "Uhrzeit": "",
+      "Ort": "Schützenraum",
+      "Name": "Weihnachtsfeier Schützen",
+      "Verein": "Schützenverein Bremthal / Niederjosbach"
+    },
+    {
+      "Datum": "11.12.2020",
+      "Uhrzeit": "18:30",
+      "Ort": "Vereinssaal",
+      "Name": "Weihnachtsfeier Chor + Helfer",
+      "Verein": "Gesangverein Taunusliebe"
+    },
+    {
+      "Datum": "12.12.2020",
+      "Uhrzeit": "15:30",
+      "Ort": "Pfarrzentrum",
+      "Name": "Adventscafé",
+      "Verein": "OGV Niederjosbach"
+    },
+    {
+      "Datum": "12.12.2020",
+      "Uhrzeit": "",
+      "Ort": "Clubheim",
+      "Name": "Weihnachtsfeier Fußball",
+      "Verein": "TuS Niederjosbach, Abtlg. Fußball"
+    },
+    {
+      "Datum": "24.12.2020",
+      "Uhrzeit": "16:00",
+      "Ort": "Kirche",
+      "Name": "Krippenspiel",
+      "Verein": "Kirchengemeinde"
+    },
+    {
+      "Datum": "24.12.2020",
+      "Uhrzeit": "16:30",
+      "Ort": "Feuerwehrgerätehaus",
+      "Name": "Turmblasen",
+      "Verein": "FFW Niederjosbach"
+    }
+  ]
+}

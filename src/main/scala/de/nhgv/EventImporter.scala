@@ -11,15 +11,15 @@ import org.json4s.native.JsonMethods._
   * Created by timolitzius on 04.04.16.
   */
 object EventImporter extends App {
-  val sourceFilePath = "events_2019_nhgv.json"
-  val targetPath = "/Users/timolitzius/Development/Projects/heimatverein-niederjosbach/content/termine/"
+  val sourceFilePath = "events_2020.json"
+  val targetPath = "/Users/timolitzius/development/heimatverein-niederjosbach/content/termine/"
   implicit val formats = DefaultFormats
 
-  case class Row(Datum: String, Uhrzeit: String, Stadtteil: String, Ort: String, Name: String, Verein: String)
+  case class Row(Datum: String, Uhrzeit: String, Ort: String, Name: String, Verein: String)
 
   case class Container(rows: Seq[Row])
 
-  case class EventItem(title: String, date: LocalDateTime, verein: String, ort: String, stadtteil: String, fileName: String)
+  case class EventItem(title: String, date: LocalDateTime, verein: String, ort: String, fileName: String)
 
   def readJson: Container = {
     val fileContent: String = scala.io.Source.fromInputStream(getClass().getClassLoader().getResourceAsStream(sourceFilePath)).mkString
@@ -29,10 +29,6 @@ object EventImporter extends App {
 
   def createEventItems: Seq[EventItem] = {
     readJson.rows.map { row =>
-      // hackathy hack: add 2 hours...
-//      val combinedDate = (row.startDate.toLong + row.startTime.toLong) * 1000 + 7200000
-//      val offsettedDate = if (combinedDate.toString.endsWith("0")) combinedDate + 1 else combinedDate
-
       val dateParts = row.Datum.split("\\.").map(_.toInt)
       val timeParts = if(row.Uhrzeit.nonEmpty) row.Uhrzeit.split("\\:").map(_.toInt) else Array(0, 0)
 
@@ -57,7 +53,6 @@ object EventImporter extends App {
         date = date,
         verein = row.Verein,
         ort = row.Ort,
-        stadtteil = row.Stadtteil,
         fileName = s"${date.getYear}/${month}_${day}_${convertNameToFilename(row.Name)}")
     }
   }
@@ -79,11 +74,11 @@ object EventImporter extends App {
     val file = new File(s"${targetPath}${item.fileName}.md")
     val bw = new BufferedWriter(new FileWriter(file))
 
-    val location = if(item.ort.nonEmpty) s"${item.ort}, ${item.stadtteil}" else ""
+    val location = if(item.ort.nonEmpty) s"${item.ort}, Niederjosbach" else ""
 
     val fileContent =
       s"""+++
-          |date = "${item.date}:00.000+02:00"
+          |date = "${item.date}:00Z"
           |title = '${item.title}'
           |verein = '${item.verein}'
           |ort = '${location}'
